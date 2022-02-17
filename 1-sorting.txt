@@ -1,8 +1,0 @@
-Read the first value
-Store it in an array
-For I in range(3):
-	read the next value
-	if it is larger than the first one
-	append it to the end of the array
-
-Print the values in order
